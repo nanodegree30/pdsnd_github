@@ -5,7 +5,7 @@
 Git Version Control Submission
 
 ### Description
-Git Version Control Submission
+Git Version Control Submission with different commits and changes to display my newly acquired skills
 
 ### Files used
 bikeshare.py
