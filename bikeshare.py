@@ -176,8 +176,8 @@ def user_stats(df):
     while True:
         raw = input('\nWould you like to see some raw data? Enter yes or no. \n')
         if raw.lower() == 'yes':
-            print(df[x:x+5])
-            x = x+5
+            print(df[x:x+10])
+            x = x+10
         else:
             break
 
